@@ -111,3 +111,5 @@ See the [LICENSE file][] for license text and copyright information.
 [pure]: http://purecss.io/
 [pure-site]: https://github.com/pure-css/pure/tree/main/site
 [started]: https://purecss.io/start/
+
+QA history flag off 
