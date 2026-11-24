@@ -1,0 +1,3 @@
+%{
+  "jason": {:hex, :jason, "1.4.1", "af1504e31d62c567bc2f984dbe1dfe1521e7ad77e915309c8eea5b451c2850be", [:mix], [], "hexpm", "fbb01ecff565b4273d1d929f15db8ffe3be8e57267be1d0ae5b09a6bce40da7f"}
+}
